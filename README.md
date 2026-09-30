@@ -2,21 +2,26 @@
 
 ## PARTE 1: Ingresamos en la página http://neverssl.com y abrimos las herramientas de desarrollador y observamos:
 
-<img width="1590" height="657" alt="1" src="https://github.com/user-attachments/assets/bcf0655f-8481-4469-a1ba-f065467f453b" />
+<img width="1590" height="657" alt="1" src="https://github.com/user-attachments/assets/69ddb8c1-002f-459f-9b52-43bc617ff455" />
+
 
 ### URL SOLICITADA :
-<img width="352" height="36" alt="2" src="https://github.com/user-attachments/assets/3924a9bd-c1cb-42ed-9def-49a9abfd80d7" />
+<img width="352" height="36" alt="2" src="https://github.com/user-attachments/assets/3d6de15b-3f43-4123-b3a7-b80763773aad" />
+
 
 ### MÉTODO HTTP:
-<img width="232" height="23" alt="3" src="https://github.com/user-attachments/assets/dc27e654-a1eb-4097-9240-ce4faa23b5b2" />
+<img width="232" height="23" alt="3" src="https://github.com/user-attachments/assets/82024f4b-eb8d-439d-a634-c393d0377464" />
+
 
 ### HOST:
-<img width="336" height="42" alt="4" src="https://github.com/user-attachments/assets/39ce278c-c371-421e-856d-b77947c92a57" />
+<img width="336" height="42" alt="4" src="https://github.com/user-attachments/assets/8053f2e7-fc3c-4111-8eaa-37e6c41cf70e" />
+
 
 ### PROTOCOLO UTILIZADO: HTTP
 ### HEADERS ENVIADOS:
 
-<img width="345" height="486" alt="5" src="https://github.com/user-attachments/assets/22222d53-8e72-4d69-99a2-5e25688ddbed" />
+<img width="345" height="486" alt="5" src="https://github.com/user-attachments/assets/c4bc39f6-96d5-48b5-b410-a8e93c7fe8bb" />
+
 
 ## PARTE 2: Análisis
 ## ¿Que protocolo utiliza el sitio? 
@@ -24,7 +29,8 @@ Utiliza HTTP
 
 ## ¿Qué información puede observarse durante la solicitud?
 Como vemos en las capturas podemos ver el Host, La url, el método GET, Los headers y el user agent:
-<img width="349" height="116" alt="6" src="https://github.com/user-attachments/assets/b8355764-00ef-44ea-bed8-c428854830b0" />
+<img width="349" height="116" alt="6" src="https://github.com/user-attachments/assets/d1dd4c83-077f-48e9-b084-d95b3abdaa68" />
+
 
 ## ¿Qué riesgos existen al navegar mediante HTTP desde una red Wi-Fi pública?
 Al navegar mediante HTTP desde una red Wi-Fi pública, existen varios riesgos porque la información que se envía no está cifrada. Esto puede permitir que otras personas conectadas a la misma red intercepten datos, como contraseñas, mensajes o información personal. También existe el riesgo de conectarse a redes falsas creadas para robar información. Por eso, es más seguro utilizar sitios que tengan HTTPS y evitar ingresar datos sensibles cuando se está conectado a una red Wi-Fi pública.
