@@ -1,4 +1,4 @@
-# practica-wifi-segura_andrea-villarruel
+# practica-wifi-segura
 
 ## PARTE 1: Ingresamos en la página http://neverssl.com y abrimos las herramientas de desarrollador y observamos:
 
